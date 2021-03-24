@@ -1,1 +1,2 @@
-export default () => console.log("!!!! Browser Storage Manage");
+export * from "./config";
+export * from "./hooks";
