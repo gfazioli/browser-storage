@@ -1,1 +1,1 @@
-export default 'This module must not be required!';
+export default () => console.log("!!!! Browser Storage Manage");
