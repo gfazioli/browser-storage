@@ -1,6 +1,6 @@
 import md5 from "md5";
-import { fromBase64, toBase64 } from "utils/strings";
 import { DEFAULT_MEMO_FLASH, DEFAULT_MEMO_HASH, DEFAULT_MEMO_STORAGE } from "../../config";
+import { fromBase64, toBase64 } from "../../utils/strings";
 import { Local } from "./local";
 import { Session } from "./session";
 
