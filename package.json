@@ -48,5 +48,11 @@
   },
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "overrides": {
+    "@types/node": "^14.18.63"
+  },
+  "resolutions": {
+    "@types/node": "^14.18.63"
+  }
 }
